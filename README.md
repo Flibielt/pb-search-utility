@@ -1,4 +1,4 @@
-# pbsearchutility README
+# PowerBuilder search utility
 
 This is the README for your extension "pbsearchutility". After writing up a brief description, we recommend including the following sections.
 
